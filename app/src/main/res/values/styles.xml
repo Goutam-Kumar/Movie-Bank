@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="outlineBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/purple_500</item>
+        <item name="boxStrokeWidth">@dimen/dim_2_dp</item>
+        <item name="errorTextColor">@color/red</item>
+        <item name="android:minHeight">@dimen/dim_50_dp</item>
+    </style>
+
+</resources>
